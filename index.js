@@ -30,6 +30,8 @@ import { sendEmail } from "./services/sendEmail.js";
         "http://localhost:3000",
         "http://crypticap.com",
         "https://crypticap.com",
+        "http://www.crypticap.com",
+        "https://www.crypticap.com",
         "https://crypto-cap-web.onrender.com",
       ],
     })
